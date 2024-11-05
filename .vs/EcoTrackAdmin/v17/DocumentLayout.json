@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DESKTOP\\source\\repos\\EcoTrackAdmin\\EcoTrack_Admin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3097D67-2FC6-492A-9CB9-9123F64C4FA8}|EcoTrackAdmin\\EcoTrackAdmin.csproj|c:\\users\\desktop\\source\\repos\\ecotrackadmin\\ecotrack_admin\\ecotrackadmin\\ecotrackadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3097D67-2FC6-492A-9CB9-9123F64C4FA8}|EcoTrackAdmin\\EcoTrackAdmin.csproj|solutionrelative:ecotrackadmin\\ecotrackadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EcoTrackAdmin",
+              "DocumentMoniker": "C:\\Users\\DESKTOP\\source\\repos\\EcoTrackAdmin\\EcoTrack_Admin\\EcoTrackAdmin\\EcoTrackAdmin.csproj",
+              "RelativeDocumentMoniker": "EcoTrackAdmin\\EcoTrackAdmin.csproj",
+              "ToolTip": "C:\\Users\\DESKTOP\\source\\repos\\EcoTrackAdmin\\EcoTrack_Admin\\EcoTrackAdmin\\EcoTrackAdmin.csproj",
+              "RelativeToolTip": "EcoTrackAdmin\\EcoTrackAdmin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T00:31:24.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
